@@ -13,7 +13,7 @@ agent-dsh
 示例：
 
 ```text
-@Elgwia-dsh 在 README 里加一段用法说明
+@Elgwia-dsh add a usage section to the README
 ```
 
 仓库目前只包含这份说明文档，没有可执行代码或构建步骤。
